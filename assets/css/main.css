@@ -3379,12 +3379,12 @@ input, select, textarea {
 
 	#banner {
 		padding: 10em 0 4.75em 0 ;
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/soin-visage-esthetique-vicky-pontbriand.jpg");
+		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/soin-visage-esthetique-vicky-pontbriand2.jpg");
 	}
 
 		#banner .inner {
 			margin: 0 auto;
-			width: 55em;
+			width: 70%;
 		}
 
 		#banner .logo {
